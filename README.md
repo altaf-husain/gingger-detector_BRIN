@@ -33,7 +33,7 @@ https://share.google/I0FFK0FqzV9vJVGZK
 </p>
 
 <p>
-  Install the Board Package
+  Install the Board Package :
   <ol>
     <li>Open the Arduino IDE.</li>
     <li>Click the Board Manager icon on the left sidebar (or go to Tools > Board > Boards Manager).</li>
@@ -116,19 +116,6 @@ features from the AS7265x sensor and performs real-time prediction of gingerol
 and shogaol content without requiring a computer or internet connection.
 </p>
 
-<h2>System Workflow</h2>
-
-<ol>
-    <li>Collect spectral data from <i>Jahe Emprit</i> samples using the AS7265x sensor.</li>
-    <li>Obtain reference gingerol and shogaol concentrations through laboratory analysis.</li>
-    <li>Combine laboratory results and sensor readings into a single dataset.</li>
-    <li>Clean and organize the dataset.</li>
-    <li>Train and optimize a Random Forest regression model.</li>
-    <li>Validate the model until achieving a minimum R² score of 0.70.</li>
-    <li>Convert the trained model into C/C++ code using micromlgen.</li>
-    <li>Integrate the generated library into the Arduino Nano 33 BLE firmware.</li>
-    <li>Perform real-time prediction of gingerol and shogaol concentrations directly on the device.</li>
-</ol>
 
 <h2>Project Contribution</h2>
 
