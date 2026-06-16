@@ -16,6 +16,11 @@ runs directly on the microcontroller, enabling rapid and non-destructive quality
 assessment without laboratory testing.
 </p>
 
+<p align="center">
+  <img src="Device.png" width="450" />
+</p>
+
+
 <h2>Arduino Nano 33 BLE</h2>
 
 <p>
@@ -51,7 +56,7 @@ provides opportunities for future wireless monitoring and data communication. yo
 </p>
 
 <p align="center">
-  <img src="Schematic Jahe Device.png" width="400" />
+  <img src="Schematic Jahe Device.png" width="300" />
 </p>
 
 
