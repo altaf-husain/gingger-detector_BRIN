@@ -47,8 +47,13 @@ https://share.google/I0FFK0FqzV9vJVGZK
 The board is powered by a 32-bit ARM Cortex-M4 processor, which allows faster
 execution of machine learning algorithms while maintaining low power
 consumption. In addition, the built-in Bluetooth Low Energy (BLE) module
-provides opportunities for future wireless monitoring and data communication.
+provides opportunities for future wireless monitoring and data communication. you can see the schematic of electrical wiring bellow
 </p>
+
+<p align="center">
+  <img src="Schematic Jahe Device.png" width="400" />
+</p>
+
 
 <h2>Machine Learning Development Process</h2>
 
